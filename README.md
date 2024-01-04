@@ -14,7 +14,7 @@
         font-size:30px;
     }
     .header{
-        height:80px;
+        height:70px;
         background-color: rgb(255,217,102);
     }
     .article{
